@@ -1,0 +1,38 @@
+@import url("https://api.mqcdn.com/sdk/place-search-js/v1.0.0/place-search.css");
+#wp-travel-tab-content-locations .map-wrap {
+  position: relative; }
+  #wp-travel-tab-content-locations .map-wrap label[for*="wp-travel-m"] {
+    display: inline-block;
+    width: calc(100%/2 - 8px); }
+    #wp-travel-tab-content-locations .map-wrap label[for*="wp-travel-m"]:first-of-type {
+      margin-right: 10px; }
+  #wp-travel-tab-content-locations .map-wrap label[for*="mq-search-input"] {
+    position: absolute;
+    z-index: 999;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 10px;
+    max-width: 400px;
+    width: 100%;
+    top: 50px; }
+  #wp-travel-tab-content-locations .map-wrap input[type="text"] {
+    border: 1px solid #ddd;
+    height: 35px;
+    width: 100%;
+    display: block;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    box-shadow: none;
+    max-width: 100% !important; }
+  #wp-travel-tab-content-locations .map-wrap input[class*="mq-input"] {
+    height: 40px;
+    min-width: 100%;
+    box-shadow: none;
+    outline: none !important;
+    border: 1px solid #ddd;
+    border-radius: 0; }
+#wp-travel-tab-content-locations #mapQuest {
+  width: 100%;
+  height: 300px; }
+
+/*# sourceMappingURL=backend-style.css.map */

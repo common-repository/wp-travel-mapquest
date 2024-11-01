@@ -1,0 +1,53 @@
+# Copyright (C) 2023 WP Travel
+# This file is distributed under the same license as the WP Travel MapQuest package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Travel MapQuest 3.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/wp-travel-mapquest\n"
+"POT-Creation-Date: 2023-06-29 08:30:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: build/wp-travel-mapquest/inc/class-wp-travel-mapquest.php:162
+#: inc/class-wp-travel-mapquest.php:162
+msgid "MapQuest API Key"
+msgstr ""
+
+#: build/wp-travel-mapquest/inc/class-wp-travel-mapquest.php:171
+#: inc/class-wp-travel-mapquest.php:171
+msgid "Map Zoom Level"
+msgstr ""
+
+#: build/wp-travel-mapquest/inc/location-tab.php:25 inc/location-tab.php:25
+msgid "Start Searching..."
+msgstr ""
+
+#: build/wp-travel-mapquest/wp-travel-mapquest.php:44 wp-travel-mapquest.php:44
+msgid "MapQuest"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Travel MapQuest"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wensolutions.com/plugins/ws-theme-addons"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides Additional Features and functionalities for WP Travel."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP Travel"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wptravel.io"
+msgstr ""
